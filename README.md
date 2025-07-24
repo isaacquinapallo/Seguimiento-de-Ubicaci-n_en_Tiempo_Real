@@ -76,5 +76,5 @@ Una vez instalada la app y concedidos los permisos:
 
 ## Desarrollador
 
-- Isaac Quinapallo  
+- Isaac Quinapallo Y Alejandro Gutierrez
 - Desarrollador de Software y entusiasta de la geolocalización en EPN
